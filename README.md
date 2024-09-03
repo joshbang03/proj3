@@ -1,1 +1,2 @@
 # proj3
+Instructions for number 2 unclear as we spent most the time trying to figure out what opcodes for the ALU were wanted. There were no instructions on what OP goes into ALU. We were able to finish 1 and 2. Unfortunately, due to partner sickness and out of town, we did not get the chance to collaborate enough for this project and get the help we need. Professor office hours are inaccessible to us and that is where everyone figures these problems out. 
